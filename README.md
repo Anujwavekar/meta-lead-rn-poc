@@ -13,13 +13,12 @@ The lead appears in the mobile application's lead list without any manual action
 ### Working Demo
 
 Loom Video:  
-PASTE_LOOM_DEMO_LINK_HERE
+https://drive.google.com/file/d/19vILVLfamuWri8BTc-P4aRZOQPqnoRSV/view?usp=drive_link
 
-### Code & Architecture Explanation
+### Code & Architecture 
 
 Loom Video:  
-PASTE_LOOM_CODE_EXPLANATION_LINK_HERE
-
+https://drive.google.com/file/d/1WU7_d1IeRxqq53wkkhYiDfVIOkjt7gm4/view?usp=drive_link
 ---
 
 ## Problem Statement
